@@ -1,0 +1,9 @@
+For this project, you will create a web interface that will allow a user to login by supplying a
+correct username and password. The web interface will consist largely of two pages, a
+login.php page and a page called home.php that is the landing page when a user logs in
+successfully. There will also be a PHP script called handleLogin.php that will receive POST
+data from the login.php page and perform the authentication.
+The login.php page will consist of two input boxes and a submit button that allow a
+user to submit a username and password. The password should not be visible as plain text
+when the user enters this value. The home.php page will simply state that the user has logged
+in successfully.
